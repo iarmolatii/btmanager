@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="number" label="Number" language="en" table="x_10962_bt_manager_trip">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <help/>
+            <hint/>
+            <label>Number</label>
+            <language>en</language>
+            <name>x_10962_bt_manager_trip</name>
+            <plural>Numbers</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>iarmolatii</sys_created_by>
+            <sys_created_on>2019-11-19 15:52:31</sys_created_on>
+            <sys_id>b17f159c0f9988108b000dbce1050ea2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Number</sys_name>
+            <sys_package display_value="BT Manager" source="x_10962_bt_manager">9dbe15180f9988108b000dbce1050efd</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="BT Manager">9dbe15180f9988108b000dbce1050efd</sys_scope>
+            <sys_update_name>sys_documentation_x_10962_bt_manager_trip_number_en</sys_update_name>
+            <sys_updated_by>iarmolatii</sys_updated_by>
+            <sys_updated_on>2019-11-19 15:52:31</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

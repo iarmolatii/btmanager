@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_10962_bt_manager_trip">x_10962_bt_manager_trip</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>BT</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>iarmolatii</sys_created_by>
+        <sys_created_on>2019-11-19 15:52:31</sys_created_on>
+        <sys_id>797f159c0f9988108b000dbce1050e80</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>BT</sys_name>
+        <sys_package display_value="BT Manager" source="x_10962_bt_manager">9dbe15180f9988108b000dbce1050efd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BT Manager">9dbe15180f9988108b000dbce1050efd</sys_scope>
+        <sys_update_name>sys_number_797f159c0f9988108b000dbce1050e80</sys_update_name>
+        <sys_updated_by>iarmolatii</sys_updated_by>
+        <sys_updated_on>2019-11-19 15:52:31</sys_updated_on>
+    </sys_number>
+</record_update>

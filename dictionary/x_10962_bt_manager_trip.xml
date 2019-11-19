@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Trip" max_length="40" name="x_10962_bt_manager_trip" type="collection">
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="To" max_length="40" name="to" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="User" max_length="40" name="user" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="From" max_length="40" name="from" type="glide_date"/>
+    </element>
+</database>
